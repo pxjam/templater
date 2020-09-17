@@ -4,6 +4,7 @@ includes, loops etc
 
 ## Examples
 https://github.com/TheColorRed/node-tpl
+https://github.com/ecomfe/smarty4js/
 
 ### Smaple syntax
 
